@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MioAPI", "MioAPI\MioAPI.csproj", "{0A25F4BF-787B-403E-B9C6-B6027736E3C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CADB6ED9-406E-471E-B7D4-4E9AC6ABFA88}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		NOTICE.md = NOTICE.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{123E6C02-69DB-4C24-905F-0D6BAB00CE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A25F4BF-787B-403E-B9C6-B6027736E3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A25F4BF-787B-403E-B9C6-B6027736E3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A25F4BF-787B-403E-B9C6-B6027736E3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A25F4BF-787B-403E-B9C6-B6027736E3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123E6C02-69DB-4C24-905F-0D6BAB00CE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123E6C02-69DB-4C24-905F-0D6BAB00CE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123E6C02-69DB-4C24-905F-0D6BAB00CE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123E6C02-69DB-4C24-905F-0D6BAB00CE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA083362-7294-41A7-B0DD-A74D473E06B4}
+	EndGlobalSection
+EndGlobal
